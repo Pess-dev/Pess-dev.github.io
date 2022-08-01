@@ -10,11 +10,11 @@ print("""<!DOCTYPE HTML>
         <html>
         <head>
             <meta charset="utf-8">
-            <title>Обработка данных форм</title>
+            <title>список</title>
         </head>
         <body>""")
 
-print("<h1>Обработка данных форм!</h1>")
+print("<h1>Admlist</h1>")
 print("<p>TEXT_1: {}</p>".format(text1))
 print("<p>TEXT_2: {}</p>".format(text2))
 
